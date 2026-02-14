@@ -76,7 +76,6 @@ Supported database operations:
 
 The database schema is defined in:
 
-
 ---
 
 ## 🛠 Tech Stack
