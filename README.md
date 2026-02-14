@@ -91,25 +91,3 @@ The database schema is defined in:
 
 ---
 
-## ⚙ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/lovesharma7/SnapCart.git
-cd SnapCart
-pip install -r requirements.txt
-python app.py
-http://127.0.0.1:5000/
-
-SnapCart/
-│
-├── app.py              # Main Flask application
-├── config.py           # Database configuration
-├── database.sql        # Database schema
-├── requirements.txt    # Project dependencies
-│
-├── templates/          # HTML templates
-├── static/             # CSS and static assets
-│
-└── README.md
