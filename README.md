@@ -89,5 +89,4 @@ The database schema is defined in:
 | Version Control | Git |
 | Development Tools | VS Code / PyCharm |
 
----
 
